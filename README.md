@@ -25,11 +25,19 @@
 ## C. device
 ## D. max_length
 
-# 截图1
+# 数据预处理验证
+![屏幕截图 2025-04-22 193352](https://github.com/user-attachments/assets/02dbd595-9106-40a6-92d0-d3c450ba5b22)
+# 模型结构验证
+![屏幕截图 2025-04-25 094443](https://github.com/user-attachments/assets/2d9f5abb-28ce-4cae-bae1-1a87ad3c0997)
+# RNN处理验证
+![屏幕截图 2025-04-25 094502](https://github.com/user-attachments/assets/c6ee25db-863d-42ee-b75f-f7b003536930)
+# 损失值
+![屏幕截图 2025-04-25 095242](https://github.com/user-attachments/assets/6070dade-a637-47d0-ae40-9126c866ae2f)
+# 结果
+![屏幕截图 2025-04-25 095319](https://github.com/user-attachments/assets/f303510c-1c18-49bb-9457-bfe72fc741d2)
+
 ![屏幕截图 2025-04-22 185102](https://github.com/user-attachments/assets/ae6e5bb2-5e0d-4ac5-9f70-6b75941e5a72)
 
-# 截图2
 ![屏幕截图 2025-04-22 192857](https://github.com/user-attachments/assets/9a29d70e-61eb-4579-b736-cf773bba3d3a)
 
-# 截图3
 ![屏幕截图 2025-04-22 191724](https://github.com/user-attachments/assets/ec38b7d6-3d20-4216-8f6e-c902c5753e92)
