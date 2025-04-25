@@ -26,7 +26,7 @@
 ## D. max_length
 
 # 数据预处理验证
-![屏幕截图 2025-04-22 193352](https://github.com/user-attachments/assets/02dbd595-9106-40a6-92d0-d3c450ba5b22)
+![屏幕截图 2025-04-25 095537](https://github.com/user-attachments/assets/cfa60532-fff7-477f-9474-6ff8f94ec6db)
 # 模型结构验证
 ![屏幕截图 2025-04-25 094443](https://github.com/user-attachments/assets/2d9f5abb-28ce-4cae-bae1-1a87ad3c0997)
 # RNN处理验证
